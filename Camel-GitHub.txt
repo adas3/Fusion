@@ -1,0 +1,97 @@
+https://github.com/vasu34k123/JBOSSFUSE
+
+http://karaf.apache.org/
+
+https://github.com/vasu34k123/JBOSSFUSE/wiki
+
+camel-archetype-blueprint is archyetype in fuse IDE
+
+https://github.com/srinivaskolaparthi/MCD/blob/master/settings.xml
+
+================================================================================================================ https://www.osgi.org/
+
+<C:\Program Files\Java\jdk1.8.0_121\bin> jvisualvm
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+https://github.com/srinivaskolaparthi/SpringBootSrini
+
+=========================================================================================================== https://github.com/vasu34k123/JBOSSFUSE/blob/master/OSGI%20STEPS.pdf
+
+http://camel.apache.org
+
+Swati(Exception) http://techdc.blogspot.in/2015/01/eclipse-workbench-has-not-been-created.html
+
+http://camel.apache.org/download.html
+
+http://camel.apache.org/download.html
+
+https://bitbucket.org/account/sihnin/
+
+https://github.com/apache/camel/blob/master/components/readme.adoc
+
+understand meena karaf activeMQ CXF Service Mix
+
+===============================================================================================
+
+https://fts.capgemini.com/private/23985019248080/FuseIDE-6.0.0.129-win32.win32.x86_64.zip
+
+http://camel.apache.org/components.html
+
+Feed http://www.webreference.fr/defintions/rss-atom-xml
+
+https://github.com/srinivaskolaparthi/MCD/blob/master/settings.xml
+
+import org.apache.camel.builder.RouteBuilder; import org.springframework.stereotype.Component;
+
+@Component public class CamelRoute extends RouteBuilder { @Override public void configure() throws Exception { from("direct:firstRoute").log("Camel body: ${body}"); } }
+
+http://localhost:8181/hawtio
+
+[?10/?13/?2017 2:22 PM] Kolaparthi, Srinivas: jbossfuse\etc\user.properties
+
+uncoment the line admin=admin, manager...
+
+http://localhost:8181
+
+https://html5test.com/
+
+fuse,an app can be designed using spring and Blueprint approach
+
+Blueprint is very light weight container than spring DI container is used for dependency Injection to OSGI
+
+1)All development will take place in camelcontext.xml file From palatee we r going to drag the elements andf then connect the elements using errows
+
+camel follows flow approach
+
+for spring: camel
+
+===============================================================================
+
+http://camel.apache.org/components.html
+
+SSL issues:(To view certificate) https://www.sslshopper.com/
+
+Run configuration for MAVEN -DproxySet=true -DproxyHost=hydproxy.capgemini.com -DproxyPort=80
+
+Reference https://access.redhat.com/documentation/en-US/Red_Hat_JBoss_Fuse/6.1/html/Apache_Camel_Component_Reference/IDU-Jetty.html
+
+https://access.redhat.com/documentation/en-US/Red_Hat_JBoss_Fuse/6.1/pdf/Apache_Camel_Component_Reference/Red_Hat_JBoss_Fuse-6.1-Apache_Camel_Component_Reference-en-US.pdf
+
+(https://repo.fusesource.com/nexus/content/groups/public): sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+1.create camel context. 2.add router 3.processing logic(configure). 4.context start 4.context stop
+
+create a timer application which needs to run Hi Camel for every 1000 mili secobds using Jboss Fuse or STS
+
+using Jboss Fuse or STS http://camel.apache.org/maven/current/camel-core/apidocs/index.html
+
+https://github.com/vasu34k123/JBOSSFUSE/commit/0bffa090d0d0196b1e47dc577301af3b742f6a7f
+
+https://github.com/vasu34k123/JBOSSFUSE/commit/0bffa090d0d0196b1e47dc577301af3b742f6a7f
+
+Workout http://camel.apache.org/servlet.htm
+
+conditionTest https://github.com/vasu34k123/JBOSSFUSE
+
+component http://camel.apache.org/sql-component.html
